@@ -1,0 +1,12 @@
+analyse_nulls.py
+
+.venv/
+env/
+__pycache__/
+
+.idea/
+.vscode/
+
+log
+log grouping
+*.log

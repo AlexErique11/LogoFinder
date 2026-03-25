@@ -1,0 +1,24 @@
+<svg id="landi_logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="108" height="95" viewBox="0 0 108 95">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-0.243" x2="0.482" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ebf5ec"/>
+      <stop offset="1" stop-color="#009640"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.549" y1="1" x2="0.564" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fffef7"/>
+      <stop offset="1" stop-color="#ffed00"/>
+    </linearGradient>
+  </defs>
+  <path id="Pfad_19417" data-name="Pfad 19417" d="M51.6,42.262,63.144,7.7h38.631L90.412,42.262Z" transform="translate(-11.697 -7.7)" fill="url(#linear-gradient)"/>
+  <path id="Pfad_19418" data-name="Pfad 19418" d="M49.342,45.9,26.8,106.338H65.431L88.155,45.9Z" transform="translate(-9.439 -11.338)" fill="url(#linear-gradient-2)"/>
+  <path id="Pfad_19419" data-name="Pfad 19419" d="M124.876,46.8c2,2.9-.909,7.51-4.454,7.057a5.1,5.1,0,0,1-4.181-2.533,4.966,4.966,0,0,1-.091-4.524Z" transform="translate(-17.529 -11.424)" fill="#009640"/>
+  <path id="Pfad_19420" data-name="Pfad 19420" d="M17.244,73.048H24.97v7.781H7.7L7.791,46.9h9.453Z" transform="translate(-7.7 -11.434)" fill="#009640"/>
+  <path id="Pfad_19421" data-name="Pfad 19421" d="M78,60.857A9.781,9.781,0,0,1,79.36,65.2V81.847H70.453V66.376a1.5,1.5,0,0,0-.909-1.267,1.931,1.931,0,0,0-1.727,0A1.824,1.824,0,0,0,67,66.738v15.11l-9-.09V64.476a7.937,7.937,0,0,1,5-6.786c4.272-1.629,10.271-1.538,13.725,1.629Z" transform="translate(-12.279 -12.362)" fill="#009640"/>
+  <rect id="Rechteck_3914" data-name="Rechteck 3914" width="9.271" height="24.971" transform="translate(98.53 44.424)" fill="#009640"/>
+  <path id="Pfad_19422" data-name="Pfad 19422" d="M109.713,69.329c0,4.976-3.636,9.048-8,10.676A13.089,13.089,0,0,1,88.625,78.2a12.362,12.362,0,0,1-4.272-13.21,13.03,13.03,0,0,1,10.089-9.048,11.316,11.316,0,0,1,4.272.09l1.636,7.6V46.8H109.8V69.329ZM95.26,65.076A3.947,3.947,0,0,0,93.079,67.7a3.7,3.7,0,0,0,.909,3.076,3.849,3.849,0,0,0,3.181,1.086A3.414,3.414,0,0,0,99.9,69.781a3.846,3.846,0,0,0-.364-3.438A3.418,3.418,0,0,0,95.26,65.076Z" transform="translate(-14.638 -11.424)" fill="#009640"/>
+  <path id="Pfad_19423" data-name="Pfad 19423" d="M50.687,63.43a16.7,16.7,0,0,1,1.545,6.424V81.887h-9.18V73.744l-2.091,8.414a13.289,13.289,0,0,1-13-6.786,12.816,12.816,0,0,1,.273-12.033,12.949,12.949,0,0,1,13.453-6.062A11.846,11.846,0,0,1,50.687,63.43ZM40.143,65.963a3.475,3.475,0,0,0-3.636,1.357,3.535,3.535,0,0,0,3,5.61,3.517,3.517,0,0,0,3.09-1.99,3.447,3.447,0,0,0-.182-3.257A3.619,3.619,0,0,0,40.143,65.963Z" transform="translate(-9.42 -12.401)" fill="#009640"/>
+  <g id="Gruppe_9251" data-name="Gruppe 9251" transform="translate(33.084 52.567)">
+    <path id="Pfad_19424" data-name="Pfad 19424" d="M68.7,65.8Z" transform="translate(-46.34 -65.8)" fill="#fff59a"/>
+    <path id="Pfad_19425" data-name="Pfad 19425" d="M44.1,68.7Z" transform="translate(-44.1 -66.076)" fill="#fff59a"/>
+  </g>
+</svg>
